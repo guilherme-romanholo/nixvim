@@ -27,6 +27,7 @@
     ./plugins/utils/whichkey.nix
     ./plugins/utils/floaterm.nix
     ./plugins/utils/autopairs.nix
+    ./plugins/utils/guess-ident.nix
     ./plugins/utils/todo-comments.nix
 
     # UI
