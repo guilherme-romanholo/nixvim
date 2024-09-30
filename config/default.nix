@@ -8,7 +8,7 @@
     ./plugins/lsp/conform.nix
     ./plugins/lsp/lspsaga.nix
 
-    # Git 
+    # Git
     ./plugins/git/gitsigns.nix
 
     # Tree

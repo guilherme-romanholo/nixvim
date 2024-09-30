@@ -9,8 +9,8 @@
     notifyOnError = true;
 
     formattersByFt = {
-      python = [ "black" ];
-      nix = [ "alejandra" ];
+      python = ["black"];
+      nix = ["alejandra"];
     };
   };
 }
